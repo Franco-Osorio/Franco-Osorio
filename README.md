@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Franco-Osorio/Franco-Osorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an advanced Software Development student focused on AI-powered systems, automation and backend engineering.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Building AI integrations and automation workflows
+- Interested in LLM applications and real-world deployments
+- Focused on backend systems and scalable microproducts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Java
+- Python
+- SpringBoot
+- Node.js
+- SQL
+- REST APIs
+- ETL Pipelines (Databricks)
+- Docker
+- Git
+- Azure Fundamentals (AZ-900)
+
+## 🔧 Current Focus
+- AI integrations (LLMs)
+- Automation flows
+- Backend architecture
+- Deployment & cloud environments
+
+## 📫 Connect with me
+- LinkedIn: [https://www.linkedin.com/in/franco-josu%C3%A9-osorio-scheggia]
+- Email: [franco95.osorio@gmail.com]
