@@ -27,4 +27,4 @@ I'm an advanced Software Development student focused on AI-powered systems, auto
 
 ## 📫 Connect with me
 - LinkedIn: [Franco Josue Osorio Scheggia](https://www.linkedin.com/in/franco-josu%C3%A9-osorio-scheggia/)
-- Email: [franco95.osorio@gmail.com]
+- Email: franco95.osorio@gmail.com
