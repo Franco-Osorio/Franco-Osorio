@@ -16,6 +16,8 @@ I'm an advanced Software Development student focused on AI-powered systems, auto
 - REST APIs
 - ETL Pipelines (Databricks)
 - Docker
+- Kubernetes (basics deployments & manifests)
+- CI/CD Fundamentals
 - Git
 - Azure Fundamentals (AZ-900)
 
